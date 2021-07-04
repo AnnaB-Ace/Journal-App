@@ -72,7 +72,7 @@ export const startLogout=()=>{// recibo mi autenticacion de firebase y mando
 }
 export const logout=()=>{
     return {
-        type: types.logout,
+        type: types.logout
         
         }
     
